@@ -1,0 +1,3 @@
+fabric -y "https://www.youtube.com/watch?v=ckvdVBjzXWs" --stream --pattern extract_wisdom
+
+Dep@ul0.1976
